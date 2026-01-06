@@ -1,0 +1,70 @@
+2026-01-05 17:58:52,934 [INFO] SQLite Database & Table verified.
+2026-01-05 17:58:52,938 [INFO] ====== WebDriver manager ======
+2026-01-05 17:59:05,453 [INFO] Get LATEST chromedriver version for google-chrome
+2026-01-05 17:59:07,146 [INFO] About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2026-01-05 17:59:09,651 [INFO] Driver downloading response is 200
+2026-01-05 18:00:55,602 [INFO] Get LATEST chromedriver version for google-chrome
+2026-01-05 18:01:00,568 [INFO] Get LATEST chromedriver version for google-chrome
+2026-01-05 18:01:07,079 [INFO] Driver has been saved in cache [C:\Users\8ciro\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2026-01-05 18:02:34,422 [INFO] SQLite Database & Table verified.
+2026-01-05 18:02:34,424 [INFO] ====== WebDriver manager ======
+2026-01-05 18:02:39,985 [INFO] Get LATEST chromedriver version for google-chrome
+2026-01-05 18:02:41,195 [INFO] About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2026-01-05 18:02:42,735 [INFO] Driver downloading response is 200
+2026-01-05 18:04:19,195 [INFO] Get LATEST chromedriver version for google-chrome
+2026-01-05 18:04:26,237 [INFO] Get LATEST chromedriver version for google-chrome
+2026-01-05 18:04:29,927 [INFO] Driver has been saved in cache [C:\Users\8ciro\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2026-01-05 18:05:20,515 [INFO] SQLite Database & Table verified.
+2026-01-05 18:05:20,525 [INFO] ====== WebDriver manager ======
+2026-01-05 18:05:27,421 [INFO] Get LATEST chromedriver version for google-chrome
+2026-01-05 18:05:28,990 [INFO] About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2026-01-05 18:05:32,002 [INFO] Driver downloading response is 200
+2026-01-05 18:07:17,920 [INFO] Get LATEST chromedriver version for google-chrome
+2026-01-05 18:07:22,158 [INFO] Get LATEST chromedriver version for google-chrome
+2026-01-05 18:07:26,273 [INFO] Driver has been saved in cache [C:\Users\8ciro\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2026-01-05 18:12:51,788 [INFO] SQLite Database 'portfolio_data.db' verified.
+2026-01-05 18:12:51,792 [INFO] Initializing Microsoft Edge Driver...
+2026-01-05 18:12:51,792 [INFO] ====== WebDriver manager ======
+2026-01-05 18:13:02,698 [INFO] Get LATEST edgedriver version for Edge 143.0.3650
+2026-01-05 18:15:44,858 [INFO] SQLite Database 'portfolio_data.db' verified.
+2026-01-05 18:15:44,861 [INFO] Initializing Microsoft Edge Driver (System Native)...
+2026-01-05 18:17:25,819 [INFO] Navigating to: https://www.wikipedia.org
+2026-01-05 18:17:31,780 [INFO] Page title captured: Wikipedia
+2026-01-05 18:17:31,832 [INFO] Data successfully saved to the database.
+2026-01-05 18:17:34,754 [INFO] Edge browser closed.
+2026-01-05 18:21:17,622 [INFO] SQLite Database 'portfolio_data.db' verified.
+2026-01-05 18:21:17,631 [INFO] Initializing Microsoft Edge Driver (System Native)...
+2026-01-05 18:21:24,368 [INFO] Navigating to: https://www.wikipedia.org
+2026-01-05 18:21:29,761 [INFO] Page title captured: Wikipedia
+2026-01-05 18:21:29,776 [INFO] Data successfully saved to the database.
+2026-01-05 18:21:34,179 [INFO] Edge browser closed.
+2026-01-05 18:22:02,736 [INFO] SQLite Database 'portfolio_data.db' verified.
+2026-01-05 18:22:02,737 [INFO] Initializing Microsoft Edge Driver (System Native)...
+2026-01-05 18:22:06,424 [INFO] Navigating to: https://www.wikipedia.org
+2026-01-05 18:22:49,138 [INFO] Page title captured: Wikipedia, the free encyclopedia
+2026-01-05 18:22:49,159 [INFO] Data successfully saved to the database.
+2026-01-05 18:22:52,605 [INFO] Edge browser closed.
+2026-01-05 20:16:31,258 [INFO] SQLite Database 'portfolio_data.db' verified.
+2026-01-05 20:16:31,262 [INFO] Initializing Microsoft Edge Driver (System Native)...
+2026-01-05 20:16:39,118 [INFO] Navigating to: https://www.wikipedia.org
+2026-01-05 20:16:50,961 [INFO] Page title captured: Wikipedia
+2026-01-05 20:16:50,994 [INFO] Data successfully saved to the database.
+2026-01-05 20:16:55,595 [INFO] Edge browser closed.
+2026-01-05 20:17:15,915 [INFO] SQLite Database 'portfolio_data.db' verified.
+2026-01-05 20:17:15,918 [INFO] Initializing Microsoft Edge Driver (System Native)...
+2026-01-05 20:17:19,767 [INFO] Navigating to: https://www.wikipedia.org
+2026-01-05 20:17:25,096 [INFO] Page title captured: Wikipedia
+2026-01-05 20:17:25,127 [INFO] Data successfully saved to the database.
+2026-01-05 20:17:29,523 [INFO] Edge browser closed.
+2026-01-05 20:17:49,999 [INFO] SQLite Database 'portfolio_data.db' verified.
+2026-01-05 20:17:50,002 [INFO] Initializing Microsoft Edge Driver (System Native)...
+2026-01-05 20:17:54,968 [INFO] Navigating to: https://www.wikipedia.org
+2026-01-05 20:19:13,994 [INFO] Page title captured: ¿Quién es esa chica? - Wikipedia, la enciclopedia libre
+2026-01-05 20:19:14,015 [INFO] Data successfully saved to the database.
+2026-01-05 20:19:18,295 [INFO] Edge browser closed.
+2026-01-05 20:20:38,330 [INFO] SQLite Database 'portfolio_data.db' verified.
+2026-01-05 20:20:38,334 [INFO] Initializing Microsoft Edge Driver (System Native)...
+2026-01-05 20:20:42,485 [INFO] Navigating to: https://www.wikipedia.org
+2026-01-05 20:21:36,221 [INFO] Page title captured: Diane Keaton - Wikipedia
+2026-01-05 20:21:36,820 [INFO] Data successfully saved to the database.
+2026-01-05 20:22:02,101 [INFO] Edge browser closed.
