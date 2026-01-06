@@ -29,3 +29,17 @@ A professional-grade Selenium automation system designed for Microsoft Edge. Thi
 2. Run `py -m pip install -r requirements.txt` to install dependencies.
 3. Double-click `run_scraper.bat`.
 4. Navigate to your target page in the Edge window, then press **ENTER** in the console to capture the data.
+   
+---
+
+## Data Intelligence & Visualization
+I added a specialized frontend layer to transform raw SQL data into actionable insights using D3.js.
+
+### Key Features:
+* **Heuristic Classification Engine:** Custom JavaScript logic that automatically categorizes entries into 6 sport categories (Surf, Football, Winter Sports, Baseball, Basketball, and Golf).
+* **Interactive SVG Mapping:** A dynamic scatter plot visualizes the relationship between the time of capture and the complexity of the source (title character count).
+* **Live Tooltips:** Hover over data points to see specific character counts and category tags.
+
+### Live Dashboard
+Once GitHub Pages is active, the dashboard will be available here:
+**[View Live Dashboard](https://ciroduro01.github.io/Selenium_Automation_Project/dashboard.html)**
